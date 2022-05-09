@@ -1,0 +1,17 @@
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.csproj.AssemblyReference.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.AssemblyInfoInputs.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.AssemblyInfo.cs
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.csproj.CoreCompileInputs.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\bin\Debug\net6.0\Trabs_DAO.deps.json
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\bin\Debug\net6.0\Trabs_DAO.runtimeconfig.json
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\bin\Debug\net6.0\Trabs_DAO.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\bin\Debug\net6.0\Trabs_DAO.pdb
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\refint\Trabs_DAO.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.pdb
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.genruntimeconfig.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\ref\Trabs_DAO.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\bin\Debug\net6.0\Trabs_BLL.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\bin\Debug\net6.0\Trabs_BLL.pdb
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_DAO\obj\Debug\net6.0\Trabs_DAO.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\bin\Debug\net6.0\Trabs_BLL.deps.json
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\bin\Debug\net6.0\Trabs_BLL.runtimeconfig.json
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\bin\Debug\net6.0\Trabs_BLL.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\bin\Debug\net6.0\Trabs_BLL.pdb
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.csproj.AssemblyReference.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.AssemblyInfoInputs.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.AssemblyInfo.cs
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\refint\Trabs_BLL.dll
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.pdb
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\Trabs_BLL.genruntimeconfig.cache
+C:\Users\Yago Felipe\source\repos\Trab_API\Trabs_BLL\obj\Debug\net6.0\ref\Trabs_BLL.dll
